@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+=======
 four  four
+>>>>>>> div
 four
 4
